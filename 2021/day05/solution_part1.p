@@ -16,10 +16,6 @@
 
 block-level on error undo, throw.
 
-using System.IO.File from assembly.
-using System.IO.StreamReader from assembly.
-using System.Array from assembly.
-
 define variable viCounter as integer   no-undo.
 define variable vcPoint1  as character no-undo.
 define variable vcArrow   as character no-undo.
